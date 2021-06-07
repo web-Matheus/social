@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan&display=swap');
+h1{
+    color: #521E4F;
+    font-family: 'Spartan', sans-serif;
+    font-size: 3rem;
+}
+.top-star{
+    margin-right: 100px;
+}
+.top-star div{
+    margin-top: 20px;
+}
+#section-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#section{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.texto{
+    max-width: 40%;
+}
+.star{
+    background-color: #fafafa;
+    height: 10vh;
+    width: 25em;
+    display: flex;  
+    align-items:center; 
+}
+.star h3{
+    margin-left: 20px;
+}
+.star2{
+    background-color: #fafafa;
+    height: 10vh;
+    width: 25em;
+    display: flex;  
+    align-items:center; 
+    justify-content: space-between;
+}
+.star2 h3{
+    margin-right: 20px;
+}
+.star3{
+    background-color: #fafafa;
+    height: 10vh;
+    width: 25em;
+    display: flex;  
+    align-items:center;
+}
+.star3 h3{
+    margin-left: 20px;
+}
+
+
+.card{
+    max-width:30%;
+    height: 45vh;
+    background-color: #521E4F;
+    border-radius: 10px;
+    color: #fff;
+    
+}
+.card p{
+    text-align: center;
+    margin: 10px;
+}
+.card img{
+    border-radius: 50px;
+    display: inline-block;
+    margin: 20px;
+    
+}
+.top{
+  display: flex;
+}
+.infor{
+    margin-top: 30px;
+    line-height: 4px;
+}
+#card2{
+    margin-top: 50px;
+}
+#card3{
+    margin-top: 100px;
+} 
